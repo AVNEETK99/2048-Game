@@ -1,4 +1,3 @@
-#https://projectgurukul.org/python-2048-game/
 from tkinter import *
 from tkinter import messagebox
 import random
